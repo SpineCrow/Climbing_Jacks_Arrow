@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: 92eeb2cfff3580840a65efc62b7b8158
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3661397655005865685
+    second: walk complete sprite sheet (transparent BG)_0
+  - first:
+      213: 7860435549922250094
+    second: walk complete sprite sheet (transparent BG)_1
+  - first:
+      213: 5990567290389701952
+    second: walk complete sprite sheet (transparent BG)_2
+  - first:
+      213: 9054239629168906667
+    second: walk complete sprite sheet (transparent BG)_3
+  - first:
+      213: 6727160887295758282
+    second: walk complete sprite sheet (transparent BG)_4
+  - first:
+      213: 5486851176391707988
+    second: walk complete sprite sheet (transparent BG)_5
+  - first:
+      213: -942876692704472920
+    second: walk complete sprite sheet (transparent BG)_6
+  - first:
+      213: -6623830135837868457
+    second: walk complete sprite sheet (transparent BG)_7
+  - first:
+      213: 2584406364465925699
+    second: walk complete sprite sheet (transparent BG)_8
+  - first:
+      213: 6287031814033578731
+    second: walk complete sprite sheet (transparent BG)_9
+  - first:
+      213: -5451371608086551055
+    second: walk complete sprite sheet (transparent BG)_10
+  - first:
+      213: 6635671899281877690
+    second: walk complete sprite sheet (transparent BG)_11
+  - first:
+      213: -1686406705470656286
+    second: walk complete sprite sheet (transparent BG)_12
+  - first:
+      213: -5192522818336866376
+    second: walk complete sprite sheet (transparent BG)_13
+  - first:
+      213: -8936574776007965218
+    second: walk complete sprite sheet (transparent BG)_14
+  - first:
+      213: -921363014446727771
+    second: walk complete sprite sheet (transparent BG)_15
+  - first:
+      213: -6495050979644323384
+    second: walk complete sprite sheet (transparent BG)_16
+  - first:
+      213: 1308790154531627460
+    second: walk complete sprite sheet (transparent BG)_17
+  - first:
+      213: -1532962184570570876
+    second: walk complete sprite sheet (transparent BG)_18
+  - first:
+      213: -5204989928741141148
+    second: walk complete sprite sheet (transparent BG)_19
+  - first:
+      213: -548465816714336651
+    second: walk complete sprite sheet (transparent BG)_20
+  - first:
+      213: 4507565950205599519
+    second: walk complete sprite sheet (transparent BG)_21
+  - first:
+      213: 477315076788302431
+    second: walk complete sprite sheet (transparent BG)_22
+  - first:
+      213: -2691614471625082074
+    second: walk complete sprite sheet (transparent BG)_23
+  - first:
+      213: -3517802808991988215
+    second: walk complete sprite sheet (transparent BG)_24
+  - first:
+      213: 8381260572454742271
+    second: walk complete sprite sheet (transparent BG)_25
+  - first:
+      213: 229340795933496453
+    second: walk complete sprite sheet (transparent BG)_26
+  - first:
+      213: -2303172956109327414
+    second: walk complete sprite sheet (transparent BG)_27
+  - first:
+      213: -4219174723284276210
+    second: walk complete sprite sheet (transparent BG)_28
+  - first:
+      213: 3222284749251418061
+    second: walk complete sprite sheet (transparent BG)_29
+  - first:
+      213: 8049184739195516705
+    second: walk complete sprite sheet (transparent BG)_30
+  - first:
+      213: -1864430219304623217
+    second: walk complete sprite sheet (transparent BG)_31
+  - first:
+      213: -7683469836092235600
+    second: walk complete sprite sheet (transparent BG)_32
+  - first:
+      213: -1286008621537133297
+    second: walk complete sprite sheet (transparent BG)_33
+  - first:
+      213: -4510439625227831432
+    second: walk complete sprite sheet (transparent BG)_34
+  - first:
+      213: 3830903418508082828
+    second: walk complete sprite sheet (transparent BG)_35
+  - first:
+      213: 8784901373628911696
+    second: walk complete sprite sheet (transparent BG)_36
+  - first:
+      213: -4620029128560509856
+    second: walk complete sprite sheet (transparent BG)_37
+  - first:
+      213: 3529397861758239195
+    second: walk complete sprite sheet (transparent BG)_38
+  - first:
+      213: 8911336003062622813
+    second: walk complete sprite sheet (transparent BG)_39
+  - first:
+      213: -3903655254628656399
+    second: walk complete sprite sheet (transparent BG)_40
+  - first:
+      213: 6573811289561344607
+    second: walk complete sprite sheet (transparent BG)_41
+  - first:
+      213: 2819467052597836921
+    second: walk complete sprite sheet (transparent BG)_42
+  - first:
+      213: 4259587349560947827
+    second: walk complete sprite sheet (transparent BG)_43
+  - first:
+      213: -8234435240424764471
+    second: walk complete sprite sheet (transparent BG)_44
+  - first:
+      213: 7492103827340047989
+    second: walk complete sprite sheet (transparent BG)_45
+  - first:
+      213: 6028377559554154324
+    second: walk complete sprite sheet (transparent BG)_46
+  - first:
+      213: -7979726998513512563
+    second: walk complete sprite sheet (transparent BG)_47
+  - first:
+      213: -5825109046987273208
+    second: walk complete sprite sheet (transparent BG)_48
+  - first:
+      213: 3221308527745572044
+    second: walk complete sprite sheet (transparent BG)_49
+  - first:
+      213: 8457115147030937342
+    second: walk complete sprite sheet (transparent BG)_50
+  - first:
+      213: 2547112805659119090
+    second: walk complete sprite sheet (transparent BG)_51
+  - first:
+      213: -1527942526616224505
+    second: walk complete sprite sheet (transparent BG)_52
+  - first:
+      213: 7498658112176097917
+    second: walk complete sprite sheet (transparent BG)_53
+  - first:
+      213: 6697107590330756311
+    second: walk complete sprite sheet (transparent BG)_54
+  - first:
+      213: 864071528280444130
+    second: walk complete sprite sheet (transparent BG)_55
+  - first:
+      213: 9141551189615252423
+    second: walk complete sprite sheet (transparent BG)_56
+  - first:
+      213: -1787705439740516106
+    second: walk complete sprite sheet (transparent BG)_57
+  - first:
+      213: -2295849368187130474
+    second: walk complete sprite sheet (transparent BG)_58
+  - first:
+      213: 4629788558914553010
+    second: walk complete sprite sheet (transparent BG)_59
+  - first:
+      213: 1889533219642180831
+    second: walk complete sprite sheet (transparent BG)_60
+  - first:
+      213: -5015380401441129220
+    second: walk complete sprite sheet (transparent BG)_61
+  - first:
+      213: -1998929676636856199
+    second: walk complete sprite sheet (transparent BG)_62
+  - first:
+      213: -5013986938880049135
+    second: walk complete sprite sheet (transparent BG)_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 466
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6a210b4c5efc230800000000000000
+      internalID: 3661397655005865685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 466
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dc7fc7c70e51d60800000000000000
+      internalID: 7860435549922250094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 467
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045a0c21635c22350800000000000000
+      internalID: 5990567290389701952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 468
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba190e7a8fe17ad70800000000000000
+      internalID: 9054239629168906667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 469
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf4a2a5f2dab5d50800000000000000
+      internalID: 6727160887295758282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 468
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d03480316352c40800000000000000
+      internalID: 5486851176391707988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 469
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0da50c4aa3ae2f0800000000000000
+      internalID: -942876692704472920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 467
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3bd4069d6314a0800000000000000
+      internalID: -6623830135837868457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 404
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e004d45e7add320800000000000000
+      internalID: 2584406364465925699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 404
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea1d0fef16004750800000000000000
+      internalID: 6287031814033578731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 404
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e951b766d854b0800000000000000
+      internalID: -5451371608086551055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 404
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaecb26f64a61c50800000000000000
+      internalID: 6635671899281877690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 404
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0b59d490ea898e0800000000000000
+      internalID: -1686406705470656286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 404
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfbbe4020470f7b0800000000000000
+      internalID: -5192522818336866376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 404
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed54457d698eaf380800000000000000
+      internalID: -8936574776007965218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 403
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad38be4839a633f0800000000000000
+      internalID: -921363014446727771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 341
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c94f38db81fcd5a0800000000000000
+      internalID: -6495050979644323384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 341
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1e26616b1c92210800000000000000
+      internalID: 1308790154531627460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 341
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487709ed303d9bae0800000000000000
+      internalID: -1532962184570570876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 341
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46506edac3924c7b0800000000000000
+      internalID: -5204989928741141148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5762c4fde357368f0800000000000000
+      internalID: -548465816714336651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 338
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f96af79571e8e30800000000000000
+      internalID: 4507565950205599519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 339
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52b7ed8883cf9600800000000000000
+      internalID: 477315076788302431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_23
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 340
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b7c7a16e675aad0800000000000000
+      internalID: -2691614471625082074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 278
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906492cbbf04e2fc0800000000000000
+      internalID: -3517802808991988215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 276
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e627b518305470800000000000000
+      internalID: 8381260572454742271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 276
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5841f122d38ce2300800000000000000
+      internalID: 229340795933496453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 277
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac331de266c7900e0800000000000000
+      internalID: -2303172956109327414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 278
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c655d71fa7275c0800000000000000
+      internalID: -4219174723284276210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 276
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71a4438ead7bc20800000000000000
+      internalID: 3222284749251418061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 276
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1277e37bfd274bf60800000000000000
+      internalID: 8049184739195516705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 277
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8328ddf7963026e0800000000000000
+      internalID: -1864430219304623217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 211
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b02b4194e4de5590800000000000000
+      internalID: -7683469836092235600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 210
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d7037e8fd272ee0800000000000000
+      internalID: -1286008621537133297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 209
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877f275ee03b761c0800000000000000
+      internalID: -4510439625227831432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 211
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ef005bc5a1a2530800000000000000
+      internalID: 3830903418508082828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 212
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0501ef1414d3ae970800000000000000
+      internalID: 8784901373628911696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 212
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c713c4cfb52efb0800000000000000
+      internalID: -4620029128560509856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 212
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd18f1dd7a0faf030800000000000000
+      internalID: 3529397861758239195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 212
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a62b861ec6bab70800000000000000
+      internalID: 8911336003062622813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 145
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa95467a3e63d9c0800000000000000
+      internalID: -3903655254628656399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 146
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aa1cec98eda3b50800000000000000
+      internalID: 6573811289561344607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 146
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf20e9852c02720800000000000000
+      internalID: 2819467052597836921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 146
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f35c40281d1b30800000000000000
+      internalID: 4259587349560947827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 146
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb0688d6c869bd80800000000000000
+      internalID: -8234435240424764471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 146
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576b2f07cbc49f760800000000000000
+      internalID: 7492103827340047989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_46
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 146
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f5921637919a350800000000000000
+      internalID: 6028377559554154324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_47
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 146
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f0201c290524190800000000000000
+      internalID: -7979726998513512563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 82
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cc86c3f2e092fa0800000000000000
+      internalID: -5825109046987273208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 84
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc163ce90364bc20800000000000000
+      internalID: 3221308527745572044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 83
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeba532b65bd5570800000000000000
+      internalID: 8457115147030937342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 84
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd09200a99295320800000000000000
+      internalID: 2547112805659119090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 83
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db3df0e58abcae0800000000000000
+      internalID: -1527942526616224505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 82
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a8b5cc2d5901860800000000000000
+      internalID: 7498658112176097917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_54
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 81
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcac30eed7e0fc50800000000000000
+      internalID: 6697107590330756311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_55
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 81
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec4fa71a7ccdfb00800000000000000
+      internalID: 864071528280444130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 20
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c311197f505dde70800000000000000
+      internalID: 9141551189615252423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 20
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8ab3dcf5bc037e0800000000000000
+      internalID: -1787705439740516106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_58
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 21
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69da66fd9218320e0800000000000000
+      internalID: -2295849368187130474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_59
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 21
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405472a20504040800000000000000
+      internalID: 4629788558914553010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_60
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 20
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4821cb378f83a10800000000000000
+      internalID: 1889533219642180831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 20
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc35a6f81ac56ab0800000000000000
+      internalID: -5015380401441129220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_62
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 21
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970e215cc006244e0800000000000000
+      internalID: -1998929676636856199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet (transparent BG)_63
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 21
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1104b9fb17dba6ab0800000000000000
+      internalID: -5013986938880049135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 48f68deefbb3de14a9d65d8a4fc7687e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      walk complete sprite sheet (transparent BG)_0: 3661397655005865685
+      walk complete sprite sheet (transparent BG)_1: 7860435549922250094
+      walk complete sprite sheet (transparent BG)_10: -5451371608086551055
+      walk complete sprite sheet (transparent BG)_11: 6635671899281877690
+      walk complete sprite sheet (transparent BG)_12: -1686406705470656286
+      walk complete sprite sheet (transparent BG)_13: -5192522818336866376
+      walk complete sprite sheet (transparent BG)_14: -8936574776007965218
+      walk complete sprite sheet (transparent BG)_15: -921363014446727771
+      walk complete sprite sheet (transparent BG)_16: -6495050979644323384
+      walk complete sprite sheet (transparent BG)_17: 1308790154531627460
+      walk complete sprite sheet (transparent BG)_18: -1532962184570570876
+      walk complete sprite sheet (transparent BG)_19: -5204989928741141148
+      walk complete sprite sheet (transparent BG)_2: 5990567290389701952
+      walk complete sprite sheet (transparent BG)_20: -548465816714336651
+      walk complete sprite sheet (transparent BG)_21: 4507565950205599519
+      walk complete sprite sheet (transparent BG)_22: 477315076788302431
+      walk complete sprite sheet (transparent BG)_23: -2691614471625082074
+      walk complete sprite sheet (transparent BG)_24: -3517802808991988215
+      walk complete sprite sheet (transparent BG)_25: 8381260572454742271
+      walk complete sprite sheet (transparent BG)_26: 229340795933496453
+      walk complete sprite sheet (transparent BG)_27: -2303172956109327414
+      walk complete sprite sheet (transparent BG)_28: -4219174723284276210
+      walk complete sprite sheet (transparent BG)_29: 3222284749251418061
+      walk complete sprite sheet (transparent BG)_3: 9054239629168906667
+      walk complete sprite sheet (transparent BG)_30: 8049184739195516705
+      walk complete sprite sheet (transparent BG)_31: -1864430219304623217
+      walk complete sprite sheet (transparent BG)_32: -7683469836092235600
+      walk complete sprite sheet (transparent BG)_33: -1286008621537133297
+      walk complete sprite sheet (transparent BG)_34: -4510439625227831432
+      walk complete sprite sheet (transparent BG)_35: 3830903418508082828
+      walk complete sprite sheet (transparent BG)_36: 8784901373628911696
+      walk complete sprite sheet (transparent BG)_37: -4620029128560509856
+      walk complete sprite sheet (transparent BG)_38: 3529397861758239195
+      walk complete sprite sheet (transparent BG)_39: 8911336003062622813
+      walk complete sprite sheet (transparent BG)_4: 6727160887295758282
+      walk complete sprite sheet (transparent BG)_40: -3903655254628656399
+      walk complete sprite sheet (transparent BG)_41: 6573811289561344607
+      walk complete sprite sheet (transparent BG)_42: 2819467052597836921
+      walk complete sprite sheet (transparent BG)_43: 4259587349560947827
+      walk complete sprite sheet (transparent BG)_44: -8234435240424764471
+      walk complete sprite sheet (transparent BG)_45: 7492103827340047989
+      walk complete sprite sheet (transparent BG)_46: 6028377559554154324
+      walk complete sprite sheet (transparent BG)_47: -7979726998513512563
+      walk complete sprite sheet (transparent BG)_48: -5825109046987273208
+      walk complete sprite sheet (transparent BG)_49: 3221308527745572044
+      walk complete sprite sheet (transparent BG)_5: 5486851176391707988
+      walk complete sprite sheet (transparent BG)_50: 8457115147030937342
+      walk complete sprite sheet (transparent BG)_51: 2547112805659119090
+      walk complete sprite sheet (transparent BG)_52: -1527942526616224505
+      walk complete sprite sheet (transparent BG)_53: 7498658112176097917
+      walk complete sprite sheet (transparent BG)_54: 6697107590330756311
+      walk complete sprite sheet (transparent BG)_55: 864071528280444130
+      walk complete sprite sheet (transparent BG)_56: 9141551189615252423
+      walk complete sprite sheet (transparent BG)_57: -1787705439740516106
+      walk complete sprite sheet (transparent BG)_58: -2295849368187130474
+      walk complete sprite sheet (transparent BG)_59: 4629788558914553010
+      walk complete sprite sheet (transparent BG)_6: -942876692704472920
+      walk complete sprite sheet (transparent BG)_60: 1889533219642180831
+      walk complete sprite sheet (transparent BG)_61: -5015380401441129220
+      walk complete sprite sheet (transparent BG)_62: -1998929676636856199
+      walk complete sprite sheet (transparent BG)_63: -5013986938880049135
+      walk complete sprite sheet (transparent BG)_7: -6623830135837868457
+      walk complete sprite sheet (transparent BG)_8: 2584406364465925699
+      walk complete sprite sheet (transparent BG)_9: 6287031814033578731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

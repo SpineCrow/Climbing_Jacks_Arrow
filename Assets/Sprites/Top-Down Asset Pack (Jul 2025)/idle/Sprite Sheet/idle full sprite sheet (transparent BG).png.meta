@@ -1,0 +1,2615 @@
+fileFormatVersion: 2
+guid: 88b8210688c278a459f8c228ac023b9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5138445019864556417
+    second: idle full sprite sheet (transparent BG)_0
+  - first:
+      213: 5831296548194945355
+    second: idle full sprite sheet (transparent BG)_1
+  - first:
+      213: 4406561144445313962
+    second: idle full sprite sheet (transparent BG)_2
+  - first:
+      213: -927251273646225345
+    second: idle full sprite sheet (transparent BG)_3
+  - first:
+      213: 8456283697183728905
+    second: idle full sprite sheet (transparent BG)_4
+  - first:
+      213: 6321143374938373139
+    second: idle full sprite sheet (transparent BG)_5
+  - first:
+      213: -5528862106001965873
+    second: idle full sprite sheet (transparent BG)_6
+  - first:
+      213: -5206018004162819800
+    second: idle full sprite sheet (transparent BG)_7
+  - first:
+      213: 7673396517622501846
+    second: idle full sprite sheet (transparent BG)_8
+  - first:
+      213: -5947465207588992809
+    second: idle full sprite sheet (transparent BG)_9
+  - first:
+      213: -7019652706873629142
+    second: idle full sprite sheet (transparent BG)_10
+  - first:
+      213: 1683906828353751180
+    second: idle full sprite sheet (transparent BG)_11
+  - first:
+      213: -5130621912673721178
+    second: idle full sprite sheet (transparent BG)_12
+  - first:
+      213: 1823865521805508569
+    second: idle full sprite sheet (transparent BG)_13
+  - first:
+      213: -2069652278500812931
+    second: idle full sprite sheet (transparent BG)_14
+  - first:
+      213: 3184316643599016080
+    second: idle full sprite sheet (transparent BG)_15
+  - first:
+      213: -1127758632045206817
+    second: idle full sprite sheet (transparent BG)_16
+  - first:
+      213: -8896957166285365032
+    second: idle full sprite sheet (transparent BG)_17
+  - first:
+      213: -8883047001597221664
+    second: idle full sprite sheet (transparent BG)_18
+  - first:
+      213: -5356752847974563007
+    second: idle full sprite sheet (transparent BG)_19
+  - first:
+      213: 9176332283315958678
+    second: idle full sprite sheet (transparent BG)_20
+  - first:
+      213: 4991020304597919182
+    second: idle full sprite sheet (transparent BG)_21
+  - first:
+      213: -5804756500224251464
+    second: idle full sprite sheet (transparent BG)_22
+  - first:
+      213: 8796989654399586516
+    second: idle full sprite sheet (transparent BG)_23
+  - first:
+      213: -2012378114652519469
+    second: idle full sprite sheet (transparent BG)_24
+  - first:
+      213: -3944784652706744232
+    second: idle full sprite sheet (transparent BG)_25
+  - first:
+      213: 9035933859261501991
+    second: idle full sprite sheet (transparent BG)_26
+  - first:
+      213: -39434026613069358
+    second: idle full sprite sheet (transparent BG)_27
+  - first:
+      213: 2826528659700551554
+    second: idle full sprite sheet (transparent BG)_28
+  - first:
+      213: -1931574098692884503
+    second: idle full sprite sheet (transparent BG)_29
+  - first:
+      213: 42343580685997182
+    second: idle full sprite sheet (transparent BG)_30
+  - first:
+      213: -3300339726003875108
+    second: idle full sprite sheet (transparent BG)_31
+  - first:
+      213: 3446929303884749650
+    second: idle full sprite sheet (transparent BG)_32
+  - first:
+      213: 5631594287495148135
+    second: idle full sprite sheet (transparent BG)_33
+  - first:
+      213: 6889573361263041449
+    second: idle full sprite sheet (transparent BG)_34
+  - first:
+      213: 1501248079831302007
+    second: idle full sprite sheet (transparent BG)_35
+  - first:
+      213: -4815058663842254037
+    second: idle full sprite sheet (transparent BG)_36
+  - first:
+      213: 6483306421098876720
+    second: idle full sprite sheet (transparent BG)_37
+  - first:
+      213: -1812761527168973937
+    second: idle full sprite sheet (transparent BG)_38
+  - first:
+      213: 720906435820337981
+    second: idle full sprite sheet (transparent BG)_39
+  - first:
+      213: -7214817483919411504
+    second: idle full sprite sheet (transparent BG)_40
+  - first:
+      213: 5006443631574978895
+    second: idle full sprite sheet (transparent BG)_41
+  - first:
+      213: 201578045965723189
+    second: idle full sprite sheet (transparent BG)_42
+  - first:
+      213: 6611683228686167370
+    second: idle full sprite sheet (transparent BG)_43
+  - first:
+      213: -1833825005348904225
+    second: idle full sprite sheet (transparent BG)_44
+  - first:
+      213: -476744900600155387
+    second: idle full sprite sheet (transparent BG)_45
+  - first:
+      213: 888457692667747675
+    second: idle full sprite sheet (transparent BG)_46
+  - first:
+      213: 5231169195562169338
+    second: idle full sprite sheet (transparent BG)_47
+  - first:
+      213: 6359851436940653560
+    second: idle full sprite sheet (transparent BG)_48
+  - first:
+      213: -5901460765555626809
+    second: idle full sprite sheet (transparent BG)_49
+  - first:
+      213: -625351277072845186
+    second: idle full sprite sheet (transparent BG)_50
+  - first:
+      213: 3891940692298721910
+    second: idle full sprite sheet (transparent BG)_51
+  - first:
+      213: 2893582774811547528
+    second: idle full sprite sheet (transparent BG)_52
+  - first:
+      213: 9154328295280395446
+    second: idle full sprite sheet (transparent BG)_53
+  - first:
+      213: -3545949045273451564
+    second: idle full sprite sheet (transparent BG)_54
+  - first:
+      213: 4766391677907385493
+    second: idle full sprite sheet (transparent BG)_55
+  - first:
+      213: -827829025599157761
+    second: idle full sprite sheet (transparent BG)_56
+  - first:
+      213: 762442571248188634
+    second: idle full sprite sheet (transparent BG)_57
+  - first:
+      213: -5110410772785339067
+    second: idle full sprite sheet (transparent BG)_58
+  - first:
+      213: -4870041723853003063
+    second: idle full sprite sheet (transparent BG)_59
+  - first:
+      213: 8931619312290168706
+    second: idle full sprite sheet (transparent BG)_60
+  - first:
+      213: -6803453631235394807
+    second: idle full sprite sheet (transparent BG)_61
+  - first:
+      213: 3474697333929083750
+    second: idle full sprite sheet (transparent BG)_62
+  - first:
+      213: 4491001165601750410
+    second: idle full sprite sheet (transparent BG)_63
+  - first:
+      213: -7952402385015366796
+    second: idle full sprite sheet (transparent BG)_64
+  - first:
+      213: -9063622356410952934
+    second: idle full sprite sheet (transparent BG)_65
+  - first:
+      213: 2913844623649176528
+    second: idle full sprite sheet (transparent BG)_66
+  - first:
+      213: -2041884740077007422
+    second: idle full sprite sheet (transparent BG)_67
+  - first:
+      213: 3470918356943953179
+    second: idle full sprite sheet (transparent BG)_68
+  - first:
+      213: 5290263086061458132
+    second: idle full sprite sheet (transparent BG)_69
+  - first:
+      213: 2613539918562273634
+    second: idle full sprite sheet (transparent BG)_70
+  - first:
+      213: 2386923628997126701
+    second: idle full sprite sheet (transparent BG)_71
+  - first:
+      213: 7485957873315541429
+    second: idle full sprite sheet (transparent BG)_72
+  - first:
+      213: -2571126399636375981
+    second: idle full sprite sheet (transparent BG)_73
+  - first:
+      213: 6621588937240163435
+    second: idle full sprite sheet (transparent BG)_74
+  - first:
+      213: 355196368204599111
+    second: idle full sprite sheet (transparent BG)_75
+  - first:
+      213: -6331322149827889825
+    second: idle full sprite sheet (transparent BG)_76
+  - first:
+      213: 3198924583654554359
+    second: idle full sprite sheet (transparent BG)_77
+  - first:
+      213: 2308109566160254776
+    second: idle full sprite sheet (transparent BG)_78
+  - first:
+      213: -188257747754043283
+    second: idle full sprite sheet (transparent BG)_79
+  - first:
+      213: -2615161010716584190
+    second: idle full sprite sheet (transparent BG)_80
+  - first:
+      213: -1623514686075585976
+    second: idle full sprite sheet (transparent BG)_81
+  - first:
+      213: 1909056069286926246
+    second: idle full sprite sheet (transparent BG)_82
+  - first:
+      213: -2047542775792959533
+    second: idle full sprite sheet (transparent BG)_83
+  - first:
+      213: -2304648620885107403
+    second: idle full sprite sheet (transparent BG)_84
+  - first:
+      213: -3506574234844169019
+    second: idle full sprite sheet (transparent BG)_85
+  - first:
+      213: 1875482704723932230
+    second: idle full sprite sheet (transparent BG)_86
+  - first:
+      213: -8711439012334282355
+    second: idle full sprite sheet (transparent BG)_87
+  - first:
+      213: -3659395537492948416
+    second: idle full sprite sheet (transparent BG)_88
+  - first:
+      213: 2274547407998591880
+    second: idle full sprite sheet (transparent BG)_89
+  - first:
+      213: -3742021331801144456
+    second: idle full sprite sheet (transparent BG)_90
+  - first:
+      213: 4249025387492285528
+    second: idle full sprite sheet (transparent BG)_91
+  - first:
+      213: 4694992059267177429
+    second: idle full sprite sheet (transparent BG)_92
+  - first:
+      213: 4815027889211077177
+    second: idle full sprite sheet (transparent BG)_93
+  - first:
+      213: 4883716077068077872
+    second: idle full sprite sheet (transparent BG)_94
+  - first:
+      213: -4294851596142183333
+    second: idle full sprite sheet (transparent BG)_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 467
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183e6ea558c6f4740800000000000000
+      internalID: 5138445019864556417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 467
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b490f17a05dece050800000000000000
+      internalID: 5831296548194945355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 467
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3a3bf8300472d30800000000000000
+      internalID: 4406561144445313962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 467
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38c9c021edb123f0800000000000000
+      internalID: -927251273646225345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 467
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90520922831ca5570800000000000000
+      internalID: 8456283697183728905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 467
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf38d986639b750800000000000000
+      internalID: 6321143374938373139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 467
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc72af25398543b0800000000000000
+      internalID: -5528862106001965873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 467
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8294697353280c7b0800000000000000
+      internalID: -5206018004162819800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 467
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1db953a716d7a60800000000000000
+      internalID: 7673396517622501846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 467
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8c9ab97eb567da0800000000000000
+      internalID: -5947465207588992809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 467
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2620380e0f259e90800000000000000
+      internalID: -7019652706873629142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 467
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8841e2b6507e5710800000000000000
+      internalID: 1683906828353751180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 403
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a46f3abd8e5cc8b0800000000000000
+      internalID: -5130621912673721178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 403
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfbc41670caf4910800000000000000
+      internalID: 1823865521805508569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 403
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77916bd73e1743e0800000000000000
+      internalID: -2069652278500812931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 403
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090651abd17f03c20800000000000000
+      internalID: 3184316643599016080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 403
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2a090df756950f0800000000000000
+      internalID: -1127758632045206817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 403
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0e1b96898a78480800000000000000
+      internalID: -8896957166285365032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 403
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4e2b201d319b480800000000000000
+      internalID: -8883047001597221664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 403
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1430ae28aadf8a5b0800000000000000
+      internalID: -5356752847974563007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 403
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6933ff7e791e85f70800000000000000
+      internalID: 9176332283315958678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_21
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 403
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec52252068aa34540800000000000000
+      internalID: 4991020304597919182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_22
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 403
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b96e7cc7bc517fa0800000000000000
+      internalID: -5804756500224251464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 403
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d016437b7f251a70800000000000000
+      internalID: 8796989654399586516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 339
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3cd5a44c89214e0800000000000000
+      internalID: -2012378114652519469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 339
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858700c324f4149c0800000000000000
+      internalID: -3944784652706744232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 339
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722d43778f5166d70800000000000000
+      internalID: 9035933859261501991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 339
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d92aa336f6e37ff0800000000000000
+      internalID: -39434026613069358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 339
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f89e427d8d93720800000000000000
+      internalID: 2826528659700551554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 339
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7b016579ba135e0800000000000000
+      internalID: -1931574098692884503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 339
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e749e45234f669000800000000000000
+      internalID: 42343580685997182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 339
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2dd615186d232d0800000000000000
+      internalID: -3300339726003875108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_32
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 339
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b5fe370f3f5df20800000000000000
+      internalID: 3446929303884749650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 339
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7627441ca21772e40800000000000000
+      internalID: 5631594287495148135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 339
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd314387eac9f50800000000000000
+      internalID: 6889573361263041449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 339
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ff416bc2185d410800000000000000
+      internalID: 1501248079831302007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 272
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f30118a97d2db0800000000000000
+      internalID: -4815058663842254037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 272
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f8b9707d459f950800000000000000
+      internalID: 6483306421098876720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 272
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f834996def6c7d6e0800000000000000
+      internalID: -1812761527168973937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 272
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b3d57759c210a00800000000000000
+      internalID: 720906435820337981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 272
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6b4bf59b1dfdb90800000000000000
+      internalID: -7214817483919411504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_41
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 272
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f411b0825f57a7540800000000000000
+      internalID: 5006443631574978895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_42
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 272
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536ed403a262cc200800000000000000
+      internalID: 201578045965723189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_43
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 272
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d2f35cdda61cb50800000000000000
+      internalID: 6611683228686167370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_44
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 272
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd223f7afd1fc86e0800000000000000
+      internalID: -1833825005348904225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_45
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 272
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503bf3fe9034269f0800000000000000
+      internalID: -476744900600155387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_46
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 272
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d9c61709f645c00800000000000000
+      internalID: 888457692667747675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_47
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 272
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3f27ddaa8d89840800000000000000
+      internalID: 5231169195562169338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 210
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3fa1b9f2bb24850800000000000000
+      internalID: 6359851436940653560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_49
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 210
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cce62573bcc91ea0800000000000000
+      internalID: -5901460765555626809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 210
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e767c36a35e4257f0800000000000000
+      internalID: -625351277072845186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 210
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a6a537073f20630800000000000000
+      internalID: 3891940692298721910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_52
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 210
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887d4dce332182820800000000000000
+      internalID: 2893582774811547528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_53
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 210
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ce753515ba0f70800000000000000
+      internalID: 9154328295280395446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_54
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 210
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d327dc61224acec0800000000000000
+      internalID: -3545949045273451564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_55
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 210
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c3c064aff952240800000000000000
+      internalID: 4766391677907385493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_56
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 210
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9876223e5f284f0800000000000000
+      internalID: -827829025599157761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_57
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 210
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc32ec9a7db49a00800000000000000
+      internalID: 762442571248188634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_58
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 210
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545eccf6a7c2419b0800000000000000
+      internalID: -5110410772785339067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_59
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 210
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c62960dad22a6cb0800000000000000
+      internalID: -4870041723853003063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 146
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ff21a517c73fb70800000000000000
+      internalID: 8931619312290168706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 146
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9037f58f7f64591a0800000000000000
+      internalID: -6803453631235394807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 146
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66307d2c0da983030800000000000000
+      internalID: 3474697333929083750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 146
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dbe8904cd335e30800000000000000
+      internalID: 4491001165601750410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 146
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b903a1a2463a190800000000000000
+      internalID: -7952402385015366796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_65
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 146
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1316dbec7b873280800000000000000
+      internalID: -9063622356410952934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_66
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 146
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db7a4b3f3e007820800000000000000
+      internalID: 2913844623649176528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 146
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd4b63b5a4c9a3e0800000000000000
+      internalID: -2041884740077007422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 146
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dd60e1bdd2b2030800000000000000
+      internalID: 3470918356943953179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_69
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 146
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d21e0d6f3aca6940800000000000000
+      internalID: 5290263086061458132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_70
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 146
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269253475b8254420800000000000000
+      internalID: 2613539918562273634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_71
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 146
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a2c54e46e002120800000000000000
+      internalID: 2386923628997126701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1f282060773e760800000000000000
+      internalID: 7485957873315541429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_73
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567b057926815cd0800000000000000
+      internalID: -2571126399636375981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 83
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b643bd44e0c94eb50800000000000000
+      internalID: 6621588937240163435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_75
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 83
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f08580739ede400800000000000000
+      internalID: 355196368204599111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_76
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 83
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5532fcac00a228a0800000000000000
+      internalID: -6331322149827889825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_77
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 83
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa7effc5fcd46c20800000000000000
+      internalID: 3198924583654554359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_78
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 83
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837b9a9eb6d080020800000000000000
+      internalID: 2308109566160254776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_79
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 83
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b7ea639c236df0800000000000000
+      internalID: -188257747754043283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_80
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 83
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20759cd9ae415bbd0800000000000000
+      internalID: -2615161010716584190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_81
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 83
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ab5d8aefd1879e0800000000000000
+      internalID: -1623514686075585976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_82
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 83
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7962261645e7a10800000000000000
+      internalID: 1909056069286926246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_83
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 83
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df717a91baa593e0800000000000000
+      internalID: -2047542775792959533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d9c043a4e3400e0800000000000000
+      internalID: -2304648620885107403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_85
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 18
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc7391ef45265fc0800000000000000
+      internalID: -3506574234844169019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_86
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 18
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644757d459d070a10800000000000000
+      internalID: 1875482704723932230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_87
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 18
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89d55b9f50ca1780800000000000000
+      internalID: -8711439012334282355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_88
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 18
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a451f9527373dc0800000000000000
+      internalID: -3659395537492948416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_89
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 18
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883aa8601d0d09f10800000000000000
+      internalID: 2274547407998591880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_90
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 18
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8730f00cc6ba11cc0800000000000000
+      internalID: -3742021331801144456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_91
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 18
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c181fd31297fa30800000000000000
+      internalID: 4249025387492285528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_92
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 18
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db56eb1766f72140800000000000000
+      internalID: 4694992059267177429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_93
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 18
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9327608aa5a62d240800000000000000
+      internalID: 4815027889211077177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_94
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 18
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bc185a5e176c340800000000000000
+      internalID: 4883716077068077872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle full sprite sheet (transparent BG)_95
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 18
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cfce87a3f9564c0800000000000000
+      internalID: -4294851596142183333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e21aecb671dfad54cb70787a4b1fd404
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      idle full sprite sheet (transparent BG)_0: 5138445019864556417
+      idle full sprite sheet (transparent BG)_1: 5831296548194945355
+      idle full sprite sheet (transparent BG)_10: -7019652706873629142
+      idle full sprite sheet (transparent BG)_11: 1683906828353751180
+      idle full sprite sheet (transparent BG)_12: -5130621912673721178
+      idle full sprite sheet (transparent BG)_13: 1823865521805508569
+      idle full sprite sheet (transparent BG)_14: -2069652278500812931
+      idle full sprite sheet (transparent BG)_15: 3184316643599016080
+      idle full sprite sheet (transparent BG)_16: -1127758632045206817
+      idle full sprite sheet (transparent BG)_17: -8896957166285365032
+      idle full sprite sheet (transparent BG)_18: -8883047001597221664
+      idle full sprite sheet (transparent BG)_19: -5356752847974563007
+      idle full sprite sheet (transparent BG)_2: 4406561144445313962
+      idle full sprite sheet (transparent BG)_20: 9176332283315958678
+      idle full sprite sheet (transparent BG)_21: 4991020304597919182
+      idle full sprite sheet (transparent BG)_22: -5804756500224251464
+      idle full sprite sheet (transparent BG)_23: 8796989654399586516
+      idle full sprite sheet (transparent BG)_24: -2012378114652519469
+      idle full sprite sheet (transparent BG)_25: -3944784652706744232
+      idle full sprite sheet (transparent BG)_26: 9035933859261501991
+      idle full sprite sheet (transparent BG)_27: -39434026613069358
+      idle full sprite sheet (transparent BG)_28: 2826528659700551554
+      idle full sprite sheet (transparent BG)_29: -1931574098692884503
+      idle full sprite sheet (transparent BG)_3: -927251273646225345
+      idle full sprite sheet (transparent BG)_30: 42343580685997182
+      idle full sprite sheet (transparent BG)_31: -3300339726003875108
+      idle full sprite sheet (transparent BG)_32: 3446929303884749650
+      idle full sprite sheet (transparent BG)_33: 5631594287495148135
+      idle full sprite sheet (transparent BG)_34: 6889573361263041449
+      idle full sprite sheet (transparent BG)_35: 1501248079831302007
+      idle full sprite sheet (transparent BG)_36: -4815058663842254037
+      idle full sprite sheet (transparent BG)_37: 6483306421098876720
+      idle full sprite sheet (transparent BG)_38: -1812761527168973937
+      idle full sprite sheet (transparent BG)_39: 720906435820337981
+      idle full sprite sheet (transparent BG)_4: 8456283697183728905
+      idle full sprite sheet (transparent BG)_40: -7214817483919411504
+      idle full sprite sheet (transparent BG)_41: 5006443631574978895
+      idle full sprite sheet (transparent BG)_42: 201578045965723189
+      idle full sprite sheet (transparent BG)_43: 6611683228686167370
+      idle full sprite sheet (transparent BG)_44: -1833825005348904225
+      idle full sprite sheet (transparent BG)_45: -476744900600155387
+      idle full sprite sheet (transparent BG)_46: 888457692667747675
+      idle full sprite sheet (transparent BG)_47: 5231169195562169338
+      idle full sprite sheet (transparent BG)_48: 6359851436940653560
+      idle full sprite sheet (transparent BG)_49: -5901460765555626809
+      idle full sprite sheet (transparent BG)_5: 6321143374938373139
+      idle full sprite sheet (transparent BG)_50: -625351277072845186
+      idle full sprite sheet (transparent BG)_51: 3891940692298721910
+      idle full sprite sheet (transparent BG)_52: 2893582774811547528
+      idle full sprite sheet (transparent BG)_53: 9154328295280395446
+      idle full sprite sheet (transparent BG)_54: -3545949045273451564
+      idle full sprite sheet (transparent BG)_55: 4766391677907385493
+      idle full sprite sheet (transparent BG)_56: -827829025599157761
+      idle full sprite sheet (transparent BG)_57: 762442571248188634
+      idle full sprite sheet (transparent BG)_58: -5110410772785339067
+      idle full sprite sheet (transparent BG)_59: -4870041723853003063
+      idle full sprite sheet (transparent BG)_6: -5528862106001965873
+      idle full sprite sheet (transparent BG)_60: 8931619312290168706
+      idle full sprite sheet (transparent BG)_61: -6803453631235394807
+      idle full sprite sheet (transparent BG)_62: 3474697333929083750
+      idle full sprite sheet (transparent BG)_63: 4491001165601750410
+      idle full sprite sheet (transparent BG)_64: -7952402385015366796
+      idle full sprite sheet (transparent BG)_65: -9063622356410952934
+      idle full sprite sheet (transparent BG)_66: 2913844623649176528
+      idle full sprite sheet (transparent BG)_67: -2041884740077007422
+      idle full sprite sheet (transparent BG)_68: 3470918356943953179
+      idle full sprite sheet (transparent BG)_69: 5290263086061458132
+      idle full sprite sheet (transparent BG)_7: -5206018004162819800
+      idle full sprite sheet (transparent BG)_70: 2613539918562273634
+      idle full sprite sheet (transparent BG)_71: 2386923628997126701
+      idle full sprite sheet (transparent BG)_72: 7485957873315541429
+      idle full sprite sheet (transparent BG)_73: -2571126399636375981
+      idle full sprite sheet (transparent BG)_74: 6621588937240163435
+      idle full sprite sheet (transparent BG)_75: 355196368204599111
+      idle full sprite sheet (transparent BG)_76: -6331322149827889825
+      idle full sprite sheet (transparent BG)_77: 3198924583654554359
+      idle full sprite sheet (transparent BG)_78: 2308109566160254776
+      idle full sprite sheet (transparent BG)_79: -188257747754043283
+      idle full sprite sheet (transparent BG)_8: 7673396517622501846
+      idle full sprite sheet (transparent BG)_80: -2615161010716584190
+      idle full sprite sheet (transparent BG)_81: -1623514686075585976
+      idle full sprite sheet (transparent BG)_82: 1909056069286926246
+      idle full sprite sheet (transparent BG)_83: -2047542775792959533
+      idle full sprite sheet (transparent BG)_84: -2304648620885107403
+      idle full sprite sheet (transparent BG)_85: -3506574234844169019
+      idle full sprite sheet (transparent BG)_86: 1875482704723932230
+      idle full sprite sheet (transparent BG)_87: -8711439012334282355
+      idle full sprite sheet (transparent BG)_88: -3659395537492948416
+      idle full sprite sheet (transparent BG)_89: 2274547407998591880
+      idle full sprite sheet (transparent BG)_9: -5947465207588992809
+      idle full sprite sheet (transparent BG)_90: -3742021331801144456
+      idle full sprite sheet (transparent BG)_91: 4249025387492285528
+      idle full sprite sheet (transparent BG)_92: 4694992059267177429
+      idle full sprite sheet (transparent BG)_93: 4815027889211077177
+      idle full sprite sheet (transparent BG)_94: 4883716077068077872
+      idle full sprite sheet (transparent BG)_95: -4294851596142183333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

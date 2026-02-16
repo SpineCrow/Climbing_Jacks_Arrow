@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 2074c3300480f9b4c90249fd3c2a292f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3825081918252643705
+    second: Horned_God_Pan_Sprite-Sheet_0
+  - first:
+      213: 8946998629422693887
+    second: Horned_God_Pan_Sprite-Sheet_1
+  - first:
+      213: -5382072401690353478
+    second: Horned_God_Pan_Sprite-Sheet_2
+  - first:
+      213: 4157063372427720127
+    second: Horned_God_Pan_Sprite-Sheet_3
+  - first:
+      213: 5073912410560101789
+    second: Horned_God_Pan_Sprite-Sheet_4
+  - first:
+      213: 6693419672899769438
+    second: Horned_God_Pan_Sprite-Sheet_5
+  - first:
+      213: 4554097100607342090
+    second: Horned_God_Pan_Sprite-Sheet_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horned_God_Pan_Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 301
+        width: 154
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a08c1f2449aeac0800000000000000
+      internalID: -3825081918252643705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horned_God_Pan_Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 301
+        width: 154
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd75a8a9df1a2c70800000000000000
+      internalID: 8946998629422693887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horned_God_Pan_Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 301
+        width: 158
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab020d58aa90f45b0800000000000000
+      internalID: -5382072401690353478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horned_God_Pan_Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 301
+        width: 158
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb57756bc1bd0b930800000000000000
+      internalID: 4157063372427720127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horned_God_Pan_Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 301
+        width: 156
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d71e464782a6640800000000000000
+      internalID: 5073912410560101789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horned_God_Pan_Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 301
+        width: 156
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e545dcfaabdc3ec50800000000000000
+      internalID: 6693419672899769438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horned_God_Pan_Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 301
+        width: 154
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0646523f27633f30800000000000000
+      internalID: 4554097100607342090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Horned_God_Pan_Sprite-Sheet_0: -3825081918252643705
+      Horned_God_Pan_Sprite-Sheet_1: 8946998629422693887
+      Horned_God_Pan_Sprite-Sheet_2: -5382072401690353478
+      Horned_God_Pan_Sprite-Sheet_3: 4157063372427720127
+      Horned_God_Pan_Sprite-Sheet_4: 5073912410560101789
+      Horned_God_Pan_Sprite-Sheet_5: 6693419672899769438
+      Horned_God_Pan_Sprite-Sheet_6: 4554097100607342090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

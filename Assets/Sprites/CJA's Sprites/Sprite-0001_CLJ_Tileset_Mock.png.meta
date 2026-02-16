@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 49ea4c21b8c623247bc0bad91de24c1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5215330743831437220
+    second: Sprite-0001_CLJ_Tileset_Mock_0
+  - first:
+      213: 3829342402443593059
+    second: Sprite-0001_CLJ_Tileset_Mock_1
+  - first:
+      213: -156704331165998744
+    second: Sprite-0001_CLJ_Tileset_Mock_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 100
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -7}
+        - {x: 15, y: 9}
+        - {x: 6, y: 13}
+        - {x: -5, y: 14}
+        - {x: -13, y: 8}
+        - {x: -14, y: -7}
+        - {x: -6, y: -12}
+        - {x: 6, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50e0cb025c6f97b0800000000000000
+      internalID: -5215330743831437220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cdf450ae842530800000000000000
+      internalID: 3829342402443593059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e516bd3643ddf0800000000000000
+      internalID: -156704331165998744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 100
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f4f4134cb56a4a88731d8884c44c4
+      internalID: -243189519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f4d3a333696148a882bf2267fc5ea
+      internalID: 338806920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 68
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4af5ab365063f4d8a58aff445326ba
+      internalID: -1369083844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 68
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412240be2d66df94fb02f0d944cb1ff1
+      internalID: 942858281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c755d993b5fcbd847be58d2ecc74a819
+      internalID: -929255008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a8f9b21738524479e5780e6ac5a5f9
+      internalID: 311377656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898023722a2d5f746b6d4b9d5a1aa5d4
+      internalID: 520472881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 36
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -10}
+        - {x: 5, y: 3}
+        - {x: -3, y: 7}
+        - {x: -10, y: 8}
+        - {x: -14, y: 5}
+        - {x: -13, y: -4}
+        - {x: -8, y: -8}
+        - {x: -1, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684b6eb2c3f7dc44ab1463f4e1110ca
+      internalID: -2004113014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -7}
+        - {x: 12, y: 8}
+        - {x: 8, y: 10}
+        - {x: 0, y: 7}
+        - {x: -6, y: 3}
+        - {x: -4, y: -11}
+        - {x: 4, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9813d154b8d933449d2af19c86c489c
+      internalID: 1029593903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32bb52faf7cd69458fd13d91abe623c
+      internalID: 1711190353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 36
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da9c5b4859885a4fa082567ce6d1914
+      internalID: -248350453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -3}
+        - {x: 6, y: 8}
+        - {x: 3, y: 12}
+        - {x: -2, y: 13}
+        - {x: -8, y: 10}
+        - {x: -13, y: 8}
+        - {x: -14, y: -5}
+        - {x: -9, y: -9}
+        - {x: -3, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a422e1d15f229af459217a183bfa0d84
+      internalID: 1827910389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -6}
+        - {x: 12, y: 8}
+        - {x: 7, y: 10}
+        - {x: 0, y: 13}
+        - {x: -6, y: 10}
+        - {x: -5, y: -2}
+        - {x: 2, y: -6}
+        - {x: 9, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4adcb16bed022547a643228f9784529
+      internalID: 365150280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 11, y: -10}
+        - {x: 11, y: 3}
+        - {x: 2, y: 13}
+        - {x: -5, y: 12}
+        - {x: -12, y: 8}
+        - {x: -13, y: -7}
+        - {x: -7, y: -10}
+        - {x: 5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5519ec97f7ee314e982ac1b708a7318
+      internalID: 518948224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -8}
+        - {x: 12, y: 8}
+        - {x: 4, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 7}
+        - {x: -11, y: -1}
+        - {x: -9, y: -11}
+        - {x: 6, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d22bd5efbd60db489c505d92a8889e0
+      internalID: 852335955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 100
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -8}
+        - {x: 11, y: 8}
+        - {x: 5, y: 12}
+        - {x: -5, y: 12}
+        - {x: -11, y: 9}
+        - {x: -12, y: -7}
+        - {x: -5, y: -11}
+        - {x: 7, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d5d169c30fb754d91c89388b3621ca
+      internalID: 533217473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 10}
+        - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -11, y: 9}
+        - {x: -12, y: -8}
+        - {x: 13, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6be7580fdae44488ace0008b1e618f
+      internalID: -1558226146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564565d0530117a44bfe917ce972b958
+      internalID: -1635723814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 68
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce884eddc1de054493251a9340f1aca
+      internalID: 1378903097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -6}
+        - {x: 11, y: 7}
+        - {x: 4, y: 12}
+        - {x: -4, y: 11}
+        - {x: -13, y: 9}
+        - {x: -12, y: -6}
+        - {x: -5, y: -9}
+        - {x: 8, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f704df1d83ceb847818820952b5c79c
+      internalID: -839277785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b38a6ac0c23545bf0149043e66699
+      internalID: 771621630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -9}
+        - {x: 14, y: 9}
+        - {x: 6, y: 13}
+        - {x: -7, y: 13}
+        - {x: -15, y: 8}
+        - {x: -15, y: -9}
+        - {x: -5, y: -15}
+        - {x: 7, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f819e2421db8345822473641c5a1d7
+      internalID: 155090979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 9, y: 1}
+        - {x: 10, y: 6}
+        - {x: 4, y: 7}
+        - {x: -3, y: 6}
+        - {x: -9, y: 4}
+        - {x: -7, y: -3}
+        - {x: -1, y: -2}
+        - {x: 6, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a838c06aec43d414ea58ede9ed2ac147
+      internalID: -92074922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_CLJ_Tileset_Mock_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 132
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -1}
+        - {x: 10, y: 5}
+        - {x: 3, y: 7}
+        - {x: -4, y: 6}
+        - {x: -10, y: 4}
+        - {x: -9, y: -2}
+        - {x: -2, y: -3}
+        - {x: 5, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889cbe8b1d9403541902dd9ca239d1a5
+      internalID: -233123994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 879cec4cea1eb874199d68fd3b4b1408
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: afbf8bf0c77758b46b2e9414899a95f7, type: 3}
+      name: _NormalMap
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":16.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.25},"autoSlicingMethod":1,"spriteAlignment":9,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      Sprite-0001_CLJ_Tileset_Mock_0: -5215330743831437220
+      Sprite-0001_CLJ_Tileset_Mock_1: 3829342402443593059
+      Sprite-0001_CLJ_Tileset_Mock_10: 771621630
+      Sprite-0001_CLJ_Tileset_Mock_11: -233123994
+      Sprite-0001_CLJ_Tileset_Mock_12: 155090979
+      Sprite-0001_CLJ_Tileset_Mock_13: -1131355387
+      Sprite-0001_CLJ_Tileset_Mock_14: 311377656
+      Sprite-0001_CLJ_Tileset_Mock_15: 520472881
+      Sprite-0001_CLJ_Tileset_Mock_16: -2004113014
+      Sprite-0001_CLJ_Tileset_Mock_17: 1029593903
+      Sprite-0001_CLJ_Tileset_Mock_18: 1711190353
+      Sprite-0001_CLJ_Tileset_Mock_19: -248350453
+      Sprite-0001_CLJ_Tileset_Mock_2: -156704331165998744
+      Sprite-0001_CLJ_Tileset_Mock_20: 115464722
+      Sprite-0001_CLJ_Tileset_Mock_21: 533217473
+      Sprite-0001_CLJ_Tileset_Mock_22: -1558226146
+      Sprite-0001_CLJ_Tileset_Mock_23: -1635723814
+      Sprite-0001_CLJ_Tileset_Mock_24: 1827910389
+      Sprite-0001_CLJ_Tileset_Mock_25: 365150280
+      Sprite-0001_CLJ_Tileset_Mock_26: 518948224
+      Sprite-0001_CLJ_Tileset_Mock_27: 852335955
+      Sprite-0001_CLJ_Tileset_Mock_28: -2070732469
+      Sprite-0001_CLJ_Tileset_Mock_29: 1378903097
+      Sprite-0001_CLJ_Tileset_Mock_3: -243189519
+      Sprite-0001_CLJ_Tileset_Mock_30: -1693865615
+      Sprite-0001_CLJ_Tileset_Mock_31: 2055066684
+      Sprite-0001_CLJ_Tileset_Mock_4: -839277785
+      Sprite-0001_CLJ_Tileset_Mock_5: -92074922
+      Sprite-0001_CLJ_Tileset_Mock_6: 338806920
+      Sprite-0001_CLJ_Tileset_Mock_7: -1369083844
+      Sprite-0001_CLJ_Tileset_Mock_8: 942858281
+      Sprite-0001_CLJ_Tileset_Mock_9: -929255008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

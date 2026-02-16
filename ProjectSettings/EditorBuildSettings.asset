@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartingScreen.unity
+    guid: 77c891e28c33dbf4b9601e4b31e1c08e
+  - enabled: 1
+    path: Assets/Scenes/Base_Of_Beanstalk.unity
+    guid: 30196a2a3ba393446b4275ca76cff566
+  - enabled: 1
+    path: Assets/Scenes/BuildSceneA.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/BuildSceneB.unity
+    guid: fd16874b2cc258448879f3842b3cfb36
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 529686beed9196f4e8eadc8106fb742a, type: 3}
+  m_UseUCBPForAssetBundles: 0
